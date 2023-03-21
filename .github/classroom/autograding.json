@@ -14,7 +14,7 @@
       "name": "2",
       "setup": "",
       "run": "./main",
-      "input": "6\r\n1 3 5 7 9 11\r\n2 4 6 8 10 12 \r\n1\r\n0",
+      "input": "6\r\n1 3 5 7 9 11\r\n2 4 6 8 10 12\r\n1\r\n0",
       "output": "242",
       "comparison": "included",
       "timeout": 1,
